@@ -1,0 +1,1 @@
+jar cf DestinationHashGenerator.jar DestinationHashGenerator.class
